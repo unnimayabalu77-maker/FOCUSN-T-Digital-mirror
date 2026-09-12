@@ -47,7 +47,7 @@ For Software:
 # Screenshots 
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](Screenshot from 2026-09-12 06-28-57.png)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
