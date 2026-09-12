@@ -75,7 +75,7 @@ do {
 
     document.getElementById("message").textContent = randomRoast;
 });
-faceapi.nets.tinyFaceDetector.loadFromUri("/models").then(() => {
+faceapi.nets.tinyFaceDetector.loadFromUri("/").then(() => {
     faceDetectionReady = true;
     console.log("Face detector ready!");
 });
