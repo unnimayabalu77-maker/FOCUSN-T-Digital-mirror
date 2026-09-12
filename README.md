@@ -47,10 +47,10 @@ For Software:
 # Screenshots 
 
 
-![Screenshot2](Screenshot from 2026-09-12 06-28-57.png)
+![Screenshot2](a.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](b.png)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -66,9 +66,9 @@ For Software:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Name 1]: Unnimaya B
+- [Name 2]: Fathimathul Rana B
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
