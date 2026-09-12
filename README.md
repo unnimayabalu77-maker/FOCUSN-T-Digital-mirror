@@ -10,8 +10,8 @@
 
 
 ### Team Members
-- Team Lead: Unnimaya B -
-- Member 2: Fathimathul Rana B - 
+- Team Lead: Unnimaya B - College of engineering Trikaripur
+- Member 2: Fathimathul Rana B - College of engineering Trikaripur
 
 ### Project Description
 FOCUSN'T is a fun browser-based digital mirror that uses the webcam to detect faces and display humorous productivity and college-related roasts instead of compliments. 
