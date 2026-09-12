@@ -2,47 +2,44 @@
 
 
 
-# [Project Name] 🎯
+# FOCUSN'T 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## The Digital Mirror That Roasts You
+### Team Name: IVY
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Unnimaya B -
+- Member 2: Fathimathul Rana B - 
 
 ### Project Description
-[2-3 lines about what your project does]
+FOCUSN'T is a fun browser-based digital mirror that uses the webcam to detect faces and display humorous productivity and college-related roasts instead of compliments. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Students need motivation to study, so we made a mirror that roasts them. 💀
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A digital mirror that detects your face and roasts your productivity. 🔥🪞
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML – webpage structure. 
+- CSS – design and styling. 
+- JavaScript – camera control, face detection logic, and roasts. 
+- @vladmandic/face-api – pre-trained face detection.
+- Tiny Face Detector – lightweight real-time face detection
+- Python HTTP server – runs the project locally. 
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+sudo apt update
+sudo apt install python3
 
 # Run
-[commands]
+python3 -m http.server 8000
 
 ### Project Documentation
 For Software:
